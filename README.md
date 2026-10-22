@@ -100,3 +100,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📝 最新博客文章
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
