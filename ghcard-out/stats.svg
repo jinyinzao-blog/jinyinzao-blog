@@ -1,0 +1,30 @@
+<svg width="460" height="200" viewBox="0 0 460 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="jinyinzao-blog GitHub stats">
+  <style>
+    @keyframes fade { from { opacity: 0; transform: translateX(8px); } to { opacity: 1; transform: translateX(0); } }
+    text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="458" height="198" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="35" y="42" fill="#58a6ff" font-size="20" font-weight="700">jinyinzao-blog's GitHub</text>
+  <line x1="35" y1="54" x2="425" y2="54" stroke="#30363d"/>
+  
+    <g style="animation: fade 0.6s ease 0.00s both;">
+      <text x="35" y="78" fill="#3fb950" font-size="16">★</text>
+      <text x="62" y="78" fill="#e6edf3" font-size="15">Total Stars</text>
+      <text x="425" y="78" fill="#58a6ff" font-size="16" font-weight="700" text-anchor="end">0</text>
+    </g>
+    <g style="animation: fade 0.6s ease 0.15s both;">
+      <text x="35" y="108" fill="#3fb950" font-size="16">⑂</text>
+      <text x="62" y="108" fill="#e6edf3" font-size="15">Total Forks</text>
+      <text x="425" y="108" fill="#58a6ff" font-size="16" font-weight="700" text-anchor="end">0</text>
+    </g>
+    <g style="animation: fade 0.6s ease 0.30s both;">
+      <text x="35" y="138" fill="#3fb950" font-size="16">◉</text>
+      <text x="62" y="138" fill="#e6edf3" font-size="15">Followers</text>
+      <text x="425" y="138" fill="#58a6ff" font-size="16" font-weight="700" text-anchor="end">0</text>
+    </g>
+    <g style="animation: fade 0.6s ease 0.45s both;">
+      <text x="35" y="168" fill="#3fb950" font-size="16">▤</text>
+      <text x="62" y="168" fill="#e6edf3" font-size="15">Public Repos</text>
+      <text x="425" y="168" fill="#58a6ff" font-size="16" font-weight="700" text-anchor="end">2</text>
+    </g>
+</svg>
