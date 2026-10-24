@@ -103,6 +103,7 @@ Here are some ideas to get you started:
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [前端视角下的 XSS 与 CSRF 防御实践](https://jinyinzao-blog.github.io/2026/10/23/frontend-security/)
 - [Web安全基础全景梳理与核心概念解析](https://jinyinzao-blog.github.io/2026/10/22/Web%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80/)
 - [警惕身边的“伪装者”：BadUSB 科普](https://jinyinzao-blog.github.io/2026/10/22/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%A2%8E%E7%A2%8E%E5%BF%B5/)
 <!-- BLOG-POST-LIST:END -->
