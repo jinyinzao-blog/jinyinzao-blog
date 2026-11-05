@@ -17,9 +17,9 @@
 
   <!-- GitHub Stats & Top Languages (acid colors) -->
   <div style="text-align:center;margin-bottom:24px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&show_icons=true&theme=dark&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=00FF00&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&show_icons=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=00FF00&hide_border=true"
          alt="GitHub Stats" style="height:180px;margin-bottom:10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyinzao-blog&layout=compact&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FF00&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinyinzao-blog&layout=compact&bg_color=000000&title_color=FF00FF&text_color=00FF00&hide_border=true"
          alt="Top Languages" style="height:180px;" />
   </div>
 
