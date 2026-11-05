@@ -6,10 +6,16 @@
       <div style="background-color:#FF0033; height:50px; width:100%; margin:20px 0; border-radius:0;"></div>
     </td>
     <td style="vertical-align:top; width:40%; text-align:right; padding:20px; background:#FFFFFF;">
-      <div style="background-color:#0000FF; height:250px; width:100%; border-radius:0;"></div>
+      <pre style="margin:0; font-family:monospace; line-height:1.2;">
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
+      </pre>
+      <div style="color:#0000FF; font-family:monospace; text-align:right; margin-top:5px;">~~~~~</div>
     </td>
   </tr>
-  <!-- Neofetch card centered with more space -->
   <tr>
     <td colspan="2" style="background:#FFFFFF; text-align:center; padding:40px;">
       <div align="center">
@@ -20,7 +26,6 @@
       </div>
     </td>
   </tr>
-  <!-- Stats and streak cards with light gray background and border -->
   <tr>
     <td colspan="2" style="background:#F5F5F5; text-align:center; padding:20px; border:2px solid #000000;">
       <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&bg_color=FFFFFF&title_color=FF0033&text_color=000000&icon_color=0000FF&border_color=000000&hide_border=false&border_radius=0" alt="GitHub Stats" style="margin-bottom:10px;"/>
@@ -36,7 +41,6 @@
       <img src="https://komarev.com/ghpvc/?username=jinyinzao-blog&label=Visitors&color=0000FF&style=flat-square" alt="Visitors"/>
     </td>
   </tr>
-  <!-- Large project links at bottom -->
   <tr>
     <td colspan="2" style="background:#FFFFFF; text-align:center; padding:20px;">
       <h1 style="margin:0; font-size:96px; font-weight:900; color:#000000;">
