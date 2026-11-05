@@ -17,8 +17,21 @@
   </tr>
   <tr>
     <td colspan="2" style="background:#FFFFFF; text-align:center; padding:20px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=jinyinzao-blog&theme=github-dark">
+        <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=jinyinzao-blog&theme=github-light" style="max-width:100%;"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="background:#FFFFFF; text-align:center; padding:20px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinyinzao-blog&bg_color=FFFFFF&title_color=FF0033&text_color=000000&icon_color=0000FF&border_color=000000&hide_border=false&border_radius=0" alt="GitHub Streak" style="margin-bottom:10px;"/>
       <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&bg_color=FFFFFF&title_color=FF0033&text_color=000000&icon_color=0000FF&border_color=000000&hide_border=false&border_radius=0" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="background:#FFFFFF; text-align:center; padding:20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinyinzao-blog&layout=compact&bg_color=FFFFFF&title_color=FF0033&text_color=000000&icon_color=0000FF&border_color=000000&hide_border=false&border_radius=0" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
