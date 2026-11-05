@@ -32,17 +32,5 @@
     </picture>
   </div>
 
-  <!-- Project Links -->
-  <div style="margin-top:24px;">
-    <p style="font-size:20px;font-weight:bold;color:#FF00FF;margin:0 0 12px;"># PROJECTS</p>
-    <p style="margin:4px 0;">
-      <a href="https://github.com/jinyinzao-blog/DICEOMANCER-Cheat-Menu-Build"
-         style="color:#E0E0E0;text-decoration:none;">DICEOMANCER‑Cheat‑Menu‑Build</a>
-    </p>
-    <p style="margin:4px 0;">
-      <a href="https://jinyinzao-blog.github.io"
-         style="color:#E0E0E0;text-decoration:none;">JINYINZAO’s Blog</a>
-    </p>
-  </div>
 
 </div>
