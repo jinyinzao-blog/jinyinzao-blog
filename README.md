@@ -1,19 +1,12 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top; width:60%; text-align:left; padding:20px; background:#FFFFFF;">
+    <td style="vertical-align:top; width:40%; text-align:left; padding:20px; background:#FFFFFF;">
+      <img src="./IMG_7090.jpeg" width="100%" style="border:2px solid #000000;" alt="Godzilla"/>
+    </td>
+    <td style="vertical-align:top; width:60%; text-align:right; padding:20px; background:#FFFFFF;">
       <h1 style="margin:0; font-size:96px; font-weight:900; color:#000000;">JINYINZAO</h1>
       <strong style="font-size:32px; color:#FF0033;">SYSTEM_ONLINE // WEB_SECURITY</strong>
       <div style="background-color:#FF0033; height:50px; width:100%; margin:20px 0; border-radius:0;"></div>
-    </td>
-    <td style="vertical-align:top; width:40%; text-align:right; padding:20px; background:#FFFFFF;">
-      <pre style="margin:0; font-family:monospace; line-height:1.2;">
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
-      </pre>
-      <div style="color:#0000FF; font-family:monospace; text-align:right; margin-top:5px;">~~~~~</div>
     </td>
   </tr>
   <tr>
@@ -42,12 +35,12 @@ __/       /
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="background:#FFFFFF; text-align:center; padding:20px;">
-      <h1 style="margin:0; font-size:96px; font-weight:900; color:#000000;">
-        <a href="https://github.com/jinyinzao-blog/DICEOMANCER" style="color:#000000; text-decoration:none;">DICEOMANCER</a>
+    <td colspan="2" style="background:#000000; color:#FFFFFF; text-align:center; padding:20px;">
+      <h1 style="margin:0; font-size:96px; font-weight:900; color:#FFFFFF;">
+        <a href="https://github.com/jinyinzao-blog/DICEOMANCER" style="color:#FFFFFF; text-decoration:none;">DICEOMANCER</a>
       </h1>
-      <h2 style="margin:0; font-size:64px; font-weight:700; color:#FF0033;">
-        <a href="https://jinyinzao-blog.github.io" style="color:#FF0033; text-decoration:none;">我的博客</a>
+      <h2 style="margin:0; font-size:64px; font-weight:700; color:#FFFFFF;">
+        <a href="https://jinyinzao-blog.github.io" style="color:#FFFFFF; text-decoration:none;">我的博客</a>
       </h2>
     </td>
   </tr>
