@@ -1,47 +1,34 @@
-<div align="center">
-  <h1><code>root@jinyinzao:~# _</code></h1>
-  <p><strong>SYSTEM_ONLINE // WEB_SECURITY // FRONTEND_DEV</strong></p>
-</div>
+<div style="background-color: #0d1117; padding: 30px; border-radius: 10px; border: 1px solid #30363d; font-family: 'Courier New', monospace; color: #e2e8f0;">
 
-<br>
+  <div align="center">
+    <h1 style="color: #38bdf8; margin-bottom: 5px;"><code>root@jinyinzao:~# _</code></h1>
+    <p style="color: #8b949e; font-size: 14px;">SYSTEM_ONLINE // WEB_SECURITY // FRONTEND_DEV</p>
+  </div>
 
-<pre style="color: #e2e8f0; background: #0d1117; padding: 20px; border-radius: 8px; border: 1px solid #30363d; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.5; overflow-x: auto;">
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
-<strong style="color: #38bdf8;">#  JINYINZAO — System Configuration & Status</strong>
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
+  <br>
 
-<strong style="color: #ff0033;">OS:</strong> .............. macOS / Windows / Linux
-<strong style="color: #ff0033;">Role:</strong> ............ Web Security Enthusiast & Frontend Dev
-<strong style="color: #ff0033;">Kernel:</strong> .......... HTML5 / JavaScript / Python / Node.js
-<strong style="color: #ff0033;">IDE:</strong> ............. VS Code / Cursor
-<strong style="color: #ff0033;">Status:</strong> .......... [ SECURE ] [ CODING ] [ LEARNING ]
+  <pre style="color: #c9d1d9; background: transparent; font-size: 14px; line-height: 1.6; overflow-x: auto; border: none;">
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
+<span style="color: #38bdf8;">#  JINYINZAO — System Configuration & Status</span>
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
 
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
-<strong style="color: #38bdf8;">#  PROJECTS</strong>
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
-[01] <a href="https://github.com/jinyinzao-blog/DICEOMANCER-Cheat-Menu-Build" style="color: #e2e8f0; text-decoration: none;">DICEOMANCER-Cheat-Menu-Build</a>  => BepInEx 6 Mod Compilation
-[02] <a href="https://jinyinzao-blog.github.io" style="color: #e2e8f0; text-decoration: none;">Jinyinzao's Blog</a>              => Hexo + Stellar High-Performance Blog
+<span style="color: #ff0033; font-weight: bold;">OS:</span> .............. macOS / Windows / Linux
+<span style="color: #ff0033; font-weight: bold;">Role:</span> ............ Web Security Enthusiast & Frontend Dev
+<span style="color: #ff0033; font-weight: bold;">Kernel:</span> .......... HTML5 / JavaScript / Python / Node.js
+<span style="color: #ff0033; font-weight: bold;">IDE:</span> ............. VS Code / Cursor
+<span style="color: #ff0033; font-weight: bold;">Status:</span> .......... [ SECURE ] [ CODING ] [ LEARNING ]
 
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
-<strong style="color: #38bdf8;">#  GITHUB STATS</strong>
-<strong style="color: #38bdf8;"># ----------------------------------------------------------------------</strong>
-</pre>
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
+<span style="color: #38bdf8;">#  PROJECTS</span>
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
+[01] <a href="https://github.com/jinyinzao-blog/DICEOMANCER-Cheat-Menu-Build" style="color: #58a6ff; text-decoration: none;">DICEOMANCER-Cheat-Menu-Build</a>  => BepInEx 6 Mod Compilation
+[02] <a href="https://jinyinzao-blog.github.io" style="color: #58a6ff; text-decoration: none;">Jinyinzao's Blog</a>              => Hexo + Stellar High-Performance Blog
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyinzao-blog&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=e2e8f0" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinyinzao-blog&theme=dark&hide_border=true&background=0D1117&ring=38bdf8&fire=ff0033&currStreakNum=38bdf8&sideNums=e2e8f0" width="100%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jinyinzao-blog&label=VISITORS&style=flat-square&color=38bdf8" alt="Visitors">
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
+<span style="color: #38bdf8;">#  STATS</span>
+<span style="color: #38bdf8;"># ----------------------------------------------------------------------</span>
+[Total Commits] ... 350+
+[Current Streak] .. 9 Days (On Fire 🔥)
+[Visitors] ........ 58+
+  </pre>
 </div>
