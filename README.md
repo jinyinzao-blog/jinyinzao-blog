@@ -6,8 +6,8 @@
   <div style="text-align:center;margin:24px 0;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&show_icons=true&bg_color=000000&title_color=FF00FF&text_color=E0E0E0&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&show_icons=true&bg_color=FFFFFF&title_color=FF00FF&text_color=000000&hide_border=true"
+              srcset="https://gitglance-eight.vercel.app/api?username=jinyinzao-blog&show_icons=true&bg_color=000000&title_color=FF00FF&text_color=E0E0E0&hide_border=true" />
+      <img src="https://gitglance-eight.vercel.app/api?username=jinyinzao-blog&show_icons=true&bg_color=FFFFFF&title_color=FF00FF&text_color=000000&hide_border=true"
            alt="GitHub Stats" style="max-width:100%;height:auto;" />
     </picture>
   </div>
@@ -16,8 +16,8 @@
   <div style="text-align:center;margin:24px 0;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyinzao-blog&layout=compact&bg_color=000000&title_color=FF00FF&text_color=E0E0E0&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinyinzao-blog&layout=compact&bg_color=FFFFFF&title_color=FF00FF&text_color=000000&hide_border=true"
+              srcset="https://gitglance-eight.vercel.app/api/top-langs?username=jinyinzao-blog&layout=compact&bg_color=000000&title_color=FF00FF&text_color=E0E0E0&hide_border=true" />
+      <img src="https://gitglance-eight.vercel.app/api/top-langs?username=jinyinzao-blog&layout=compact&bg_color=FFFFFF&title_color=FF00FF&text_color=000000&hide_border=true"
            alt="Top Languages" style="max-width:100%;height:auto;" />
     </picture>
   </div>
