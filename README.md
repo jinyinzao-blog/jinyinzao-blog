@@ -1,7 +1,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top; width:40%; text-align:left; padding:20px; background:#FFFFFF;">
-      <img src="./IMG_7090.jpeg" width="100%" style="border:2px solid #000000;" alt="Godzilla"/>
+      <img src="./godzilla.jpg" width="100%" style="border:2px solid #000000;" alt="Godzilla"/>
     </td>
     <td style="vertical-align:top; width:60%; text-align:right; padding:20px; background:#FFFFFF;">
       <h1 style="margin:0; font-size:96px; font-weight:900; color:#000000;">JINYINZAO</h1>
