@@ -1,106 +1,46 @@
-<!-- 动态波浪背景图 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Jinyinzao!&fontSize=50&animation=fadeIn&fontAlignY=35)
+# JINYINZAO
 
-<!-- 动态打字机效果 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer+%26+Blogger;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<div style="background:#0000FF;color:#FFFFFF;font-weight:bold;padding:20px;text-align:center;">
+  SYSTEM_ONLINE // WEB SECURITY
+</div>
 
-<!-- 访客计数器 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jinyinzao-blog&label=Profile%20views&color=0e75b6&style=flat" alt="访客数" />
-</p>
+<div align="left">
+  <h1 style="margin:0;font-weight:900;color:#0000FF;">GITHUB SPARK PROJECT</h1>
+</div>
 
----
+<div align="right">
+  <p style="margin:0;font-weight:700;color:#FF0033;">BRUTALIST TYPOGRAPHY • SWISS POSTER STYLE</p>
+</div>
 
-## 👋 关于我
-- 🔭 我正在维护我的个人博客：[jinyinzao-blog.github.io](https://jinyinzao-blog.github.io)
-- 🌱 目前正在学习：HTML / CSS / JavaScript / Node.js
-- 💬 随时欢迎和我交流前端开发与开源技术！
+<hr style="border:none;border-top:2px solid #000000;">
 
----
+<div align="center">
+  <!-- GITHUB‑README‑STATS (WHITE BACKGROUND, BLACK BORDER) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jinyinzao-blog&theme=transparent&title_color=FF0033&icon_color=0000FF&text_color=000000&border_color=000000&hide_border=false&bg_color=FFFFFF"
+       alt="GitHub Stats"
+       width="400"/>
+</div>
 
-## 🛠️ 我的技术栈
-<!-- 这里可以通过 shields.io 添加任意技术图标 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="left" style="margin-top:20px;">
+  <strong style="font-weight:900;color:#000000;">TECH STACK</strong>
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-0000FF?style=flat-square&logo=node.js&logoColor=FFFFFF&color=0000FF"
+       alt="Node.js"
+       height="20"/>
+  <img src="https://img.shields.io/badge/React-0000FF?style=flat-square&logo=react&logoColor=FFFFFF&color=0000FF"
+       alt="React"
+       height="20"/>
+  <img src="https://img.shields.io/badge/Docker-0000FF?style=flat-square&logo=docker&logoColor=FFFFFF&color=0000FF"
+       alt="Docker"
+       height="20"/>
+</div>
 
-## 📈 连续打卡与数据
-<!-- 连续打卡卡片 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinyinzao-blog&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 基本数据统计
-<!-- 动态波浪背景图 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Jinyinzao!&fontSize=50&animation=fadeIn&fontAlignY=35)
-
-<!-- 动态打字机效果 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer+%26+Blogger;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- 访客计数器 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jinyinzao-blog&label=Profile%20views&color=0e75b6&style=flat" alt="访客数" />
-</p>
-
----
-
-## 👋 关于我
-- 🔭 我正在维护我的个人博客：[jinyinzao-blog.github.io](https://jinyinzao-blog.github.io)
-- 🌱 目前正在学习：HTML / CSS / JavaScript / Node.js
-- 💬 随时欢迎和我交流前端开发与开源技术！
-
----
-
-## 🛠️ 我的技术栈
-<!-- 这里可以通过 shields.io 添加任意技术图标 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 📈 连续打卡与数据
-<!-- 连续打卡卡片 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinyinzao-blog&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 基本数据统计
-## Hi there 👋
-
-<!--
-**jinyinzao-blog/jinyinzao-blog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 📝 最新博客文章
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="left" style="margin-top:20px;">
+  <strong style="font-weight:900;color:#000000;">LICENSE</strong>
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-000000?style=flat-square&logo=github&logoColor=FFFFFF&color=000000"
+       alt="MIT License"
+       height="20"/>
+</div>
